@@ -58,8 +58,9 @@
   </div>
 <pre style="forn-size:16pt;">
   All remarks i you can send to my mail Shinohara43@icloud.com
-  ここまで読んでありがとうございました。
   Thank you for watch!
+  ここまで読んでくれてありがとうございました。
+  もし質問あればメールを連絡してください
 </pre>
 </div>
 </html>
