@@ -1,0 +1,204 @@
+﻿*{
+    padding:0;
+    margin:0;
+}
+html, body {
+}
+button{
+    cursor: pointer;
+    color:#fff;
+    border-radius: 0.5em;
+}
+
+
+.wrapper {
+    height:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
+body {
+    background-color: #ebebf3;
+}
+.create-contact{
+    width:380px;
+    height:280px;
+    margin-top: 150px;
+    background-color:#fff;
+    border-radius:0.6em;
+}
+.create-contact input{
+    margin: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contact-list {
+    width: 380px;
+    background-color: #fff;
+    border-radius: 0.6em;
+    height:auto;
+    margin-top: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.contact-data{
+    margin-left:30px;
+    font-size:15pt;
+}
+.phone{
+    color:#ccccce;
+}
+
+.small-text{
+
+    margin-left:20px;
+}
+.description {
+    height: 80px;
+    font-size: 13pt;
+}
+.contact-list {
+    display: flex;
+    height:100%;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.input-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.form-class{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+.form-class input{
+    width:260px;
+    height:40px;
+    font-size:1em;
+    border-radius:0.5em;
+    opacity:0.5;
+}
+.form-class input:focus {
+    opacity: 1;
+}
+.center-inputs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.send-btn {
+    display: block;
+    background-color: #495a8d;
+    bottom: 0px;
+    width: 100px;
+    height: 40px;
+    padding: 5px;
+    margin-left: 160px;
+}
+.send-btn:hover{
+    background-color: #191970;
+}
+.send {
+    display:flex;
+}
+.contact-name{
+    display:flex;
+
+}
+.contact-id{
+    display: flex;
+    align-items: center;
+}
+
+.cross {
+    margin-left: 10px;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+.cross::before, .cross::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #000;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+.cross::before {
+    transform: translateY(-50%) rotate(45deg);
+}
+
+.cross::after {
+    transform: translateY(-50%) rotate(-45deg);
+}
+    .error-value{
+        color:red;
+        display:none;
+    }
+.delete-modal{
+    display: none;
+    top:240px;
+    position: absolute;
+    border-radius: 0.5em;
+    background-color:#fff;
+    width:550px;
+    height:250px;
+    border: 1px solid black;
+    z-index: 1;
+    text-align: center;
+    font-size:16pt;
+}
+.delete-btn{
+    width:50px;
+    height:50px;
+    background-color:#495a8d;
+
+}
+.delete-btn:hover{
+    background-color: #191970;
+}
+.phone-code{
+    display:flex;
+    margin-right: 20px;
+    align-items: center;
+    float:right;
+    font-size:14pt;
+}
+
+
+.modal-success {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    opacity: 0.5;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%;
+}
+
+.empty{
+    text-align: center;
+    font-size: 16pt;
+}
