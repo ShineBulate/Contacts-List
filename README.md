@@ -1,6 +1,6 @@
 <html>
   <header>
-    <pre style="font-size:18pt;">Hello welcome to Contact-List add in  HTML CSS JS AJAX PHP MYSQL
+    <pre style="font-size:18pt;">Hello welcome to Contact-List add in  HTML CSS JS AJAX(JSON) PHP MYSQL 
 </pre>
   </header>
 <div style="">
