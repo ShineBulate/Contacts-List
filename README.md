@@ -54,7 +54,6 @@
   </pre>
   <img src="https://github.com/ShineBulate/contact-list/assets/89338809/570c7d38-4960-43d1-884f-229dffd1e119/">
   
-    </div>
 <pre style="forn-size:16pt;">
   All remarks i you can send to my mail Shinohara43@icloud.com
   ここまで読んでありがとうございました。
