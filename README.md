@@ -50,7 +50,9 @@
     ここでもし全部大丈夫ならコンタクトが掃除します
 
     P.S.
-    Контакт был успешно удален - this is modal window about success for delete contact - これはモーダルウィンドウはコンタクトが掃除した。
+    - Контакт был успешно удален  
+    - this is modal window about success for delete contact
+    - これはモーダルウィンドウはコンタクトが掃除した。
   </pre>
   <img src="https://github.com/ShineBulate/contact-list/assets/89338809/570c7d38-4960-43d1-884f-229dffd1e119/">
   
