@@ -44,18 +44,18 @@
     ここでもしコンタクトを掃除して欲しいモーダルウィンドウ見ることができます
   </pre>
   <img src="https://github.com/ShineBulate/contact-list/assets/89338809/f395006f-11f3-473d-b7ca-2094cbedb222/"
-<h1>Delete success</div>
+<h1>Delete success
   <pre>
     Here you can to see if you press yes contact will to delete
     ここでもし全部大丈夫ならコンタクトが掃除します
-
+    
     P.S.
     - Контакт был успешно удален  
     - this is modal window about success for delete contact
     - これはモーダルウィンドウはコンタクトが掃除した。
   </pre>
   <img src="https://github.com/ShineBulate/contact-list/assets/89338809/570c7d38-4960-43d1-884f-229dffd1e119/">
-  
+  </div>
 <pre style="forn-size:16pt;">
   All remarks i you can send to my mail Shinohara43@icloud.com
   ここまで読んでありがとうございました。
