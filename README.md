@@ -7,10 +7,10 @@
 <h1>Main Page</h1>
   <pre>
     Translated from Russian language to English and Japanese
-    Добавить контакт - Add Contact - コンタクトを追加する
-    Имя - Name - お名前を書いてください。
-    Телефон - Phone - お電話番号をかいてください。
-    Список контактов - Contact List - 連絡先リスト
+    Добавить контакт・Add Contact・コンタクトを追加する
+    Имя・Name・お名前を書いてください。
+    Телефон・Phone・お電話番号をかいてください。
+    Список контактов・Contact List・連絡先リスト
   </pre>
 <img src="https://github.com/ShineBulate/contact-list/assets/89338809/97d9ceb3-0310-4e54-b50a-5d27e28cf502/">
 </div>
@@ -34,8 +34,8 @@
     Here you can to see if all param was clean you can add the contact
     ここでもし全部大丈夫なら合格してできます
     P.S
-    Контак был добавлен - this is modal window success - これはもーダルウィンドウ合格を見ることができます
-    You can see result i added my name Булат and phone number - 私の名前追加した見ることをご覧ください
+    Контак был добавлен・this is modal window success・これはもーダルウィンドウ合格を見ることができます
+    You can see result i added my name Булат and phone number・私の名前追加した見ることをご覧ください
   </pre>
   <img src="https://github.com/ShineBulate/contact-list/assets/89338809/f3aa4bb3-8a4f-40af-ba85-5258dd9620d7/">
 <h1>Delete contact</h1>
